@@ -1,0 +1,4 @@
+book-matrix.js
+==============
+
+Up-and-coming:: bibliomaniacs.js ( so far planning to use CloudFlare as CDN for selectize.js,turn.js, idiomatic.js, and jsPDF with a Yeoman generator I'm sure to make reading books online easier and enable you to make notes on a sidebar; analytics are taken in this process and the results will appear of Parse, Ink.(CHECK THE READ.ME INFO ON MY REPO) as to general population worldwide by country, area, etc. as to what is being read the most. This is a javacript framework that you can download as a program from github (COMING SOON) and it will have an icon representing the tooling as you read anything online. All you'd have to do is click on the icon for the tooling to enable and open and the source of text you are reading will go into pdf format with a sidebar and a save button as well as a bookmark this page option, so you can go back to look up words or to refer to the information or to share it later with someone else, or.
